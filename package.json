@@ -1,16 +1,16 @@
 {
-  "name": "react-boilerplate-typescript",
+  "name": "twilio-react-app",
   "version": "4.1.0",
-  "description": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
+  "description": "A React App implementing Twilio technology",
   "repository": {
     "type": "git",
-    "url": "git://github.com/react-boilerplate/react-boilerplate-typescript.git"
+    "url": "git://github.com/ACODE91/twilio-react.git"
   },
   "engines": {
     "npm": ">=6.4.1",
     "node": ">=10.13.0"
   },
-  "author": "Max Stoiber",
+  "author": "Aaron Lao",
   "license": "MIT",
   "scripts": {
     "analyze:clean": "rimraf stats.json",
